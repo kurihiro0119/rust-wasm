@@ -1,0 +1,10 @@
+/Users/kuriharahironari/Desktop/study_work/rust-webassembly-editor/my-wasm-rust-project/wasm-markdown/target/release/deps/version_check-4b1cb5c63f80852a.rmeta: /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/Users/kuriharahironari/Desktop/study_work/rust-webassembly-editor/my-wasm-rust-project/wasm-markdown/target/release/deps/libversion_check-4b1cb5c63f80852a.rlib: /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/Users/kuriharahironari/Desktop/study_work/rust-webassembly-editor/my-wasm-rust-project/wasm-markdown/target/release/deps/version_check-4b1cb5c63f80852a.d: /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs:
+/Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs:
+/Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs:
+/Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs:

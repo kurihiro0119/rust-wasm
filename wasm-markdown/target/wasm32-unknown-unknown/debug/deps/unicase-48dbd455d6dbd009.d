@@ -1,0 +1,10 @@
+/Users/kuriharahironari/Desktop/study_work/rust-webassembly-editor/my-wasm-rust-project/wasm-markdown/target/wasm32-unknown-unknown/debug/deps/unicase-48dbd455d6dbd009.rmeta: /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/lib.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/ascii.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/mod.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/map.rs
+
+/Users/kuriharahironari/Desktop/study_work/rust-webassembly-editor/my-wasm-rust-project/wasm-markdown/target/wasm32-unknown-unknown/debug/deps/libunicase-48dbd455d6dbd009.rlib: /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/lib.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/ascii.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/mod.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/map.rs
+
+/Users/kuriharahironari/Desktop/study_work/rust-webassembly-editor/my-wasm-rust-project/wasm-markdown/target/wasm32-unknown-unknown/debug/deps/unicase-48dbd455d6dbd009.d: /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/lib.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/ascii.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/mod.rs /Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/map.rs
+
+/Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/lib.rs:
+/Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/ascii.rs:
+/Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/mod.rs:
+/Users/kuriharahironari/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/map.rs:
